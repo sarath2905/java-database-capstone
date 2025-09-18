@@ -1,0 +1,4 @@
+[
+  { "id": 1, "name": "Dr. Smith", "specialty": "Cardiology", "email": "smith@clinic.com" },
+  { "id": 2, "name": "Dr. Jane", "specialty": "Dermatology", "email": "jane@clinic.com" }
+]
