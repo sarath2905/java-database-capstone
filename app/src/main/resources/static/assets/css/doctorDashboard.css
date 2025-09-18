@@ -1,0 +1,15 @@
+#searchBar, #dateFilter {
+    margin: 10px 5px;
+    padding: 8px;
+  }
+  
+  #patientTable {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  #patientTable th, #patientTable td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  

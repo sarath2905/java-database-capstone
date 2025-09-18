@@ -1,0 +1,11 @@
+#searchBar {
+  width: 60%;
+  padding: 8px;
+  margin: 10px 0;
+}
+
+#content {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+}
